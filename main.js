@@ -37,7 +37,7 @@ randomize.addEventListener('click', result);
 function result() {
     /*
     This function Generates random Strings and Changes the <p> HTML element(contents) to display
-    Some random Concatenated  strings
+    Some random Concatenated  strings When a button is clicked
     */
     let newStory = storyText;
 
